@@ -10,4 +10,11 @@ class Service {
 		this.logic.perform(name);
 		System.out.println("end");
 	}
+
+	public void doRestart(String name1) {
+		System.out.println("restart");
+		this.logic.perform(name1);
+		System.out.println("end");
+	}
+
 }
