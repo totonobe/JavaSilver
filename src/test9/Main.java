@@ -6,7 +6,7 @@ public class Main {
 		String str = "hoge, world.";
 		hello(str);
 		System.out.println(str);
-	}
+	} //test
 	private static void hello(String str) {
 		System.out.println(str.replaceAll("hoge", "hello"));// test
 	}
