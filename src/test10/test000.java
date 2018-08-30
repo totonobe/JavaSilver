@@ -17,5 +17,6 @@ public class test000 {
 		System.out.println(chr1);
 	char chr2 = 123;
 		System.out.println(chr2);
+
 	}
 }
