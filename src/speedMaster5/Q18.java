@@ -10,6 +10,7 @@ public class Q18 {
 		while(flag);
 		while(flag) //コンパイルエラーにはならない。判定はfalseとなり次の行は実行されない。
 			System.out.println('B');//whileの条件式がfalseのため実行されない。
+
 		System.out.println('B');//ここは実行される。
 	}
 }

@@ -10,7 +10,7 @@ public class Q21 {
 			}
 		}
 		for (int i = 0; i<ary.length; i++) {
-			System.out.println(ary[i][4-i]);
+			System.out.print(ary[i][4-i]);
 		}
 	}
 
